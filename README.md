@@ -1,41 +1,33 @@
-## FollowFootstep v1.0.1 (FollowTheFootstep codename; uwp; pre-pre-alpha)
-![](Images/logo.png)
+# Delivery
+My fok of simple Delivery game...
 
-This is my fork of the desktop monogame "Follow my dad's footstep" demo project:
-https://becher.itch.io/footstepmonogamejam
-
-My main goal is/was: adapdation for W10M (Astoria support planned too). 
+My main goal is/was: explore this brave sample & plan to adaptation for UWP / W10M... :) 
 
 ## Screenshot(s)
 
 ![](Images/shot01.png)
+![](Images/shot02.png)
+![](Images/shot03.png)
+![](Images/shot04.png)
 
 
 ## My 2 cents (status)
 - Fast R.E.... 
-- Project tuned on(to) "firm" Monigame.Framwork 3.8.xx...
-- Some project research and minimal "re-dev"...
-- W10(M) UWP taemplate ready... but all things damaged at now ("Game components" is hardcore!)
+- Project stopped on "non-UWP-compatible" Monigame.Framwork.Extended 3.8.xx...
+- Some imGUI wrapper found...
+- Deskop game assembled & tweaked a liittle (for better gameplay)
+- Only 3 levels at now (so, yes, demo only)
 
 ## A few words (description) frow the author(original)
+ "A game I am making for lumdum dare 53" - KittyKat
 
-### Controls
-- *WASD* to walk
+## Controls
 - *Space* to jump
-- *Shift* to interact with objects
-- *Escape* (?) to load menu
-
-### More information
-- Status:	Prototype
-- Platforms:	Windows
-- Author:	Becher
-- Made with:	MonoGame
-- Tags:	2D, Exploration
-- Video: https://www.youtube.com/watch?v=dWRj44VATBE (1 min.)
+- Touchpanel (on "sensor notbooks") touch - jump too :)
 
 ## Goals (ToDo-s)
 - Create Wiki
-- Explore Becher's super-cool object-oriented programming
+- Explore super-cool object-oriented programming
 - Add more indicators / virtual gamepad, etc.
 - Add more gameplay elements
 - Improve AI
@@ -43,9 +35,10 @@ My main goal is/was: adapdation for W10M (Astoria support planned too).
 - Add more sound effects for everything :)
 
 ## Reference(s)
-- [Becher](https://becher.itch.io/) Becher at itch.io (author of original FollowFootStep proto)
-- [Follow my dad's footstep](https://becher.itch.io/footstepmonogamejam) MonoGame Game Jam. Theme: Footstep.
-- [Youtube - Follow My Dad's Footstep gameplay by Coconut Mousse](https://www.youtube.com/watch?v=mEGb-rgoVWQ)
+- https://lioncatdevstudio.itch.io/you-got-a-package "project delivery", or you-got-a-package (original)
+- [lioncatdevstudio](https://lioncatdevstudio.itch.io) lioncatdevstudioat itch.io (author of original Delivery)
+- https://www.youtube.com/c/LioncatDevStudio
+
 
 ## ..
 As is. No support. RnD only. DIY.

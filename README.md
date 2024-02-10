@@ -19,7 +19,7 @@ My main goal is/was: explore this brave sample & plan to adaptation for UWP / W1
 - Only 3 levels at now (so, yes, demo only)
 
 ## A few words (description) frow the author(original)
- "A game I am making for lumdum dare 53" - KittyKat
+ "A game I am making for [lumdum dare 53](https://itch.io/games/tag-ludum-dare-53)" - KittyKat
 
 ## Controls
 - *Space* to jump

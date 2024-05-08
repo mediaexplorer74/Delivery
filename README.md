@@ -1,5 +1,5 @@
 # Delivery
-My fok of simple Delivery game...
+My fork of simple Delivery game... =)
 
 My main goal is/was: explore this brave sample & plan to adaptation for UWP / W10M... :) 
 
@@ -14,8 +14,8 @@ My main goal is/was: explore this brave sample & plan to adaptation for UWP / W1
 ## My 2 cents (status)
 - Fast R.E.... 
 - Project stopped on "non-UWP-compatible" Monigame.Framwork.Extended 3.8.xx...
-- Some imGUI wrapper found...
-- Deskop game assembled & tweaked a liittle (for better gameplay)
+- Some imGUI wrapper found... it's interesting thing for mini-gamedev =))
+- Desktop game assembled & tweaked a liittle (for better gameplay)
 - Only 3 levels at now (so, yes, demo only)
 
 ## A few words (description) frow the author(original)
